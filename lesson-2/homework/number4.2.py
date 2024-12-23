@@ -1,3 +1,0 @@
-a = "aziza"
-print(a)
-
